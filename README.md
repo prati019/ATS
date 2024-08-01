@@ -4,6 +4,7 @@ An Applicant Tracking System (ATS) that uses the Google Gemini Pro Vision API to
 
 ## Project link
 https://github.com/prati019/ATS
+"C:\Users\praga\Videos\Captures\Pinterest - Google Chrome 2024-06-23 21-26-54.mp4"
 
 ## Install
 Python 3.9 or higher
