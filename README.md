@@ -2,7 +2,7 @@
 
 An Applicant Tracking System (ATS) that uses the Google Gemini Pro Vision API to analyze resumes and compare them with job descriptions. The system provides a CV score, suggests improvements and offers skill enhancement recommendations.
 
-##Project link
+## Project link
 https://github.com/prati019/ATS
 
 ## Install
